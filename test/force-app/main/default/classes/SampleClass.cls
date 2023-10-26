@@ -1,5 +1,5 @@
 public with sharing class SampleClass {
     public SampleClass() {
-        System.debug("main class content in feature 1");
+        System.debug("main class content in feature 2 branch");
     }
 }
